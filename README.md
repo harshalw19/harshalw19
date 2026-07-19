@@ -7,13 +7,6 @@
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-<h3><code>harshalw19@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Harshal's GitHub contribution graph — auto-refreshed daily" />
-
-<br>
-<br>
-
 <h3><code>harshalw19@github ~ $ whoami</code></h3>
 
 <table>
@@ -22,6 +15,13 @@
 <td valign="top"><img src="./info-card.svg" width="490" alt="Harshal Warukar — experience, stack, highlights" /></td>
 </tr>
 </table>
+
+<br>
+<br>
+
+<h3><code>harshalw19@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Harshal's GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
