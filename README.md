@@ -14,7 +14,7 @@
 <br>
 <br>
 
-<h3><code>harshalw2003@github ~ $ whoami</code></h3>
+<h3><code>harshalw19@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
@@ -26,7 +26,7 @@
 <br>
 <br>
 
-<h3><code>harshalw2003@github ~ $ ./links.sh</code></h3>
+<h3><code>harshalw19@github ~ $ ./links.sh</code></h3>
 
 <p><b>Cloud and Devops Engineer</b></p>
 
