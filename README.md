@@ -1,35 +1,40 @@
-👨‍💻 About Me<br>
-Hey there! I'm **Harshal Warukar**, a **DevOps & Cloud Engineer** with a strong passion for **automation, cloud computing, and infrastructure as code**. I also love **Full-stack development**, building scalable web applications with **Node.js, React.js, Express.js, and MongoDB**.
+<div align="center">
 
-⚡ What I Do
+<!-- hero: monochrome ASCII portrait (types in) beside a neofetch-style info
+     panel. regenerate portrait: python scripts/prep_photo.py <photo> &&
+     python scripts/make_ascii_svg.py ; info panel: python scripts/make_info_card.py -->
 
-**💻 DevOps & Cloud Engineering**
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-- Infrastructure as Code (IaC): Automating cloud deployments with Terraform & Ansible
-- Observability & Monitoring: Ensuring system reliability with Prometheus, Grafana & Dynatrace
-- Cloud Computing: Working with AWS,GCP and Azure 
-- Kubernetes & Containerization: Managing containerized workloads efficiently
-- CI/CD Pipelines: Automating software delivery with Jenkins, GitHub Actions & Azure DevOps
+<!-- <h3><code>avi@github ~ $ ./contributions.sh</code></h3>
 
-**🌐 Full-Stack Development**
+<img src="./contrib-heatmap.svg" width="860" alt="Harshal's GitHub contribution graph — auto-refreshed daily" /> -->
 
-- Backend: Building RESTful APIs with Node.js, Express.js, and MongoDB
-- Frontend: Creating dynamic UIs with React.js & Tailwind CSS
-- Authentication & Security: Implementing JWT, OAuth, and OTP-based authentication
-- Database Management: Working with MongoDB & PostgreSQL
-  
-📌 Featured Projects
+<br>
+<br>
 
-🔹 **MyMenuOnline** – A QR-based digital menu platform (MERN stack + Cloud)<br>
-🔹 **DevOps Automation** – Terraform, Ansible, and CI/CD scripts<br>
-🔹 **Cloud Monitoring Dashboards** – Custom dashboards for system monitoring<br>
+<h3><code>harshalw2003@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./hw-ascii.svg" width="370" alt="Harshal Warukar — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Harshal Warukar — experience, stack, highlights" /></td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<h3><code>harshalw2003@github ~ $ ./links.sh</code></h3>
+
+<p><b>Cloud and Devops Engineer</b></p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-harshalwarukarknow.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.harshalwarukarknow.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshalwarukar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshalwarukar)
+[![Instagram](https://img.shields.io/badge/Instagram-harshalwarukarknow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harshalwarukarknow)
 
 
-📢 Let's Connect!
+<br>
 
-📧 [Contact Me](mailto:harshalwarukar12@gmail.com)   | 💼 [Linkedin](www.linkedin.com/in/harshalwarukar)
-
-🚀 **Always learning, always building!**
-
-
-
+</div>
