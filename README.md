@@ -30,7 +30,7 @@
 
 <p><b>Cloud and Devops Engineer</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-harshalwarukarknow.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.harshalwarukarknow.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-harshalwarukarknow.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.harshalwarukar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harshalwarukar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshalwarukar)
 [![Instagram](https://img.shields.io/badge/Instagram-harshalwarukarknow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harshalwarukarknow)
 
