@@ -17,33 +17,6 @@
 </tr>
 </table>
 
-<<<<<<< HEAD
-<br>
-<br>
-
-<h3><code>harshalw19@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Harshal's GitHub contribution graph — auto-refreshed daily" />
-
-<br>
-<br>
-
-<h3><code>harshalw19@github ~ $ ./links.sh</code></h3>
-
-<p><b>Cloud and Devops Engineer</b></p>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-harshalwarukar.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.harshalwarukar.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshalwarukar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshalwarukar)
-[![Instagram](https://img.shields.io/badge/Instagram-harshalwarukarknow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harshalwarukarknow)
-[![X(Twitter)](https://img.shields.io/badge/X(Twitter)-harshalwarukar-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/harshalw2003)
-
-
-<br>
-
-=======
-<p><a href="https://github.com/harshalw19">GitHub</a></p>
->>>>>>> aaf2311 (README.md updated)
-</div>
 
 <h2>Building in public</h2>
 
