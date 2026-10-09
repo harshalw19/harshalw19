@@ -28,7 +28,7 @@
 <p><sub>Designed to make the work, momentum, and next conversation easy to find.</sub></p>
 </td>
 <td width="38%" valign="top">
-<img src="https://www.gitskins.com/api/section/portrait?username=harshalw19&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126320779%3Fu%3Ddca3c0753011f722c74511acb91ff5742c52db92%26v%3D4&color=1&v=showcase-portrait-1" width="100%" alt="Harshal Warukar animated colored ASCII portrait" />
+<img src="./hw-ascii.svg" width="100%" alt="Harshal Warukar animated colored ASCII portrait" />
 </td>
 </tr>
 </table>
